@@ -1,3 +1,5 @@
+# Lab - Class 04
+
 ## Project: **Garage Band with OOP**
 
 ### Author: Roger Wells
